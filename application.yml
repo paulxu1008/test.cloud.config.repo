@@ -1,4 +1,4 @@
 system:
     config:
         showImgUrl: /mster/opt/data/www/images
-pwd: admin.1000
+pwd: {cipher}268f87ec6b5cfd46fb020e9db6f93bf1b9992db0da1a55e4e11e8fafddff348f
